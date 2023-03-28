@@ -18,7 +18,7 @@ file_path_list = [
     f'.github/workflows/main.yaml',
     f'{project_name}/__init__.py',
     f'{project_name}/components/__init__.py',
-    f'{project_name}/config/__init__.py',
+    f'{project_name}/configuration/__init__.py',
     f'{project_name}/constant/__init__.py',
     f'{project_name}/entity/__init__.py',
     f'{project_name}/exception/__init__.py',
